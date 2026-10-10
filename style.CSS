@@ -22,9 +22,26 @@ body {
   );
 }
 p {
-font-size: 25 px;
-color:CDCBCB;
+font-size: 25px;
+color:#CDCBCB;
+text-align: center;
 }
 h1{
-
+font-size: 45px;
+ text-align: center;
+}
+.p_input{
+padding:16px 8px;
+font-size: 25px;
+color:#fff;
+}
+a {
+font-size:25px;
+}
+div{
+background: rgba(255, 255, 255, 0.1);
+border: 1px solid rgba(255, 255, 255, 0.3); 
+border-radius: 8px;
+border-radius:16px;
+}
 
